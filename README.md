@@ -41,3 +41,6 @@ Future Improvements
 - More advanced quizzes
 - screenshots:
 - ![screenshot1](screen1.png)
+- ![screenshot2](studybuddyss2)
+- ![screenshot3](studybuddyss3)
+- ![screen shot](studybuddy ss4)
