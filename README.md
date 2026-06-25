@@ -40,7 +40,5 @@ Future Improvements
 - Performance tracking
 - More advanced quizzes
 - screenshots:
-- ![screenshot1](screen1.png)
-- ![screenshot2](studybuddyss2)
-- ![screenshot3](studybuddyss3)
-- ![screen shot](studybuddy ss4)
+- please take a look at the attached screen shots
+- 
